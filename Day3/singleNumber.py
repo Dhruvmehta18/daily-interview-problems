@@ -6,6 +6,8 @@
 # Input: [4, 3, 2, 4, 1, 3, 2]
 # Output: 1
 
+# Challenge: Find a way to do this using O(1) memory.
+
 def singleNumber(nums):
     ans = 0
     for x in nums:

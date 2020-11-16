@@ -10,6 +10,8 @@
 
 # [13, 4, 1] however, should return false, since there is no way to modify just one element to make the array non-decreasing.
 
+# Can you find a solution in O(n) time?
+
 def check(lst: list) -> bool:
     counter = 0
     for i in range(1, len(lst)):
