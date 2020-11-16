@@ -7,7 +7,7 @@ class ListNode(object):
     def printList(self):
         node = self
         output = '' 
-        while node != None:
+        while node is None:
             output += str(node.val)
             output += " "
             node = node.next
