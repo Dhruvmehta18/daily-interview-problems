@@ -4,6 +4,7 @@
         "*.jsx": "javascriptreact",
         "*.js": "javascript",
         "xstring": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
