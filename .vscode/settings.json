@@ -5,6 +5,8 @@
         "*.js": "javascript",
         "xstring": "cpp",
         "iostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "ios": "cpp",
+        "utility": "cpp"
     }
 }
